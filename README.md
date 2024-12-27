@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @annesh07
-- 👀 I’m interested in Bayesian Statistics
-- 🌱 I’m currently learning Non-parametric Inference
+- 👋 Hi, I’m Annesh
+- 👀 I’m interested in Bayesian Statistics, Mathematical modeling and Machine Learning
+- 🌱 I’m currently pursuing PhD in biostatistics at the University of Bordeaux, France
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 Contact: annesh.pal@u-bordeaux.fr
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
